@@ -13,7 +13,8 @@
 ## 一、系统介绍
 
 ### 系统层次结构图如下：
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/jiegou.png)
+
+![contents](./picture/jiegou.png)
 
 - 管理员登录模块
 - 会员管理模块
@@ -46,33 +47,33 @@
 
 ## 四、页面截图
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture1.png)
+![contents](./picture/picture1.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture2.png)
+![contents](./picture/picture2.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture3.png)
+![contents](./picture/picture3.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture4.png)
+![contents](./picture/picture4.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture5.png)
+![contents](./picture/picture5.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture6.png)
+![contents](./picture/picture6.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture7.png)
+![contents](./picture/picture7.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture8.png)
+![contents](./picture/picture8.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture9.png)
+![contents](./picture/picture9.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture10.png)
+![contents](./picture/picture10.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture11.png)
+![contents](./picture/picture11.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture12.png)
+![contents](./picture/picture12.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture13.png)
+![contents](./picture/picture13.png)
 
-![contents](https://ynwynw.oss-cn-hangzhou.aliyuncs.com/edu/image/gym/picture14.png)
+![contents](./picture/picture14.png)
 
 
 ## 五、浏览地址
